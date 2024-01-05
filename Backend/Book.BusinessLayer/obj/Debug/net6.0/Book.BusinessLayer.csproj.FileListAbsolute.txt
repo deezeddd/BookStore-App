@@ -1,0 +1,15 @@
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.BusinessLayer\bin\Debug\net6.0\Book.BusinessLayer.deps.json
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.BusinessLayer\bin\Debug\net6.0\Book.BusinessLayer.dll
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.BusinessLayer\bin\Debug\net6.0\Book.BusinessLayer.pdb
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.BusinessLayer\bin\Debug\net6.0\Book.DataAccessLayer.dll
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.BusinessLayer\bin\Debug\net6.0\Book.DataAccessLayer.pdb
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.BusinessLayer\obj\Debug\net6.0\Book.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.BusinessLayer\obj\Debug\net6.0\Book.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.BusinessLayer\obj\Debug\net6.0\Book.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.BusinessLayer\obj\Debug\net6.0\Book.BusinessLayer.AssemblyInfo.cs
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.BusinessLayer\obj\Debug\net6.0\Book.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.BusinessLayer\obj\Debug\net6.0\Book.BusinessLayer.csproj.CopyComplete
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.BusinessLayer\obj\Debug\net6.0\Book.BusinessLayer.dll
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.BusinessLayer\obj\Debug\net6.0\refint\Book.BusinessLayer.dll
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.BusinessLayer\obj\Debug\net6.0\Book.BusinessLayer.pdb
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.BusinessLayer\obj\Debug\net6.0\ref\Book.BusinessLayer.dll

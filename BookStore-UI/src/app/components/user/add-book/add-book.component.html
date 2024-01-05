@@ -1,0 +1,52 @@
+<h1 class="fw-bolder font-monospace text-center text-primary mb-2 mt-2">Add Book</h1>
+
+<div class="container font-monospace d-flex justify-content-center">
+  <form style="width: 20rem;" [formGroup]="addBookForm" (ngSubmit)="onSubmit()">
+    <div class="form-group mb-2">
+      <label class="form-label text-light fw-bold" for="name">Book Name</label>
+      <input formControlName="name" type="text" class="form-control" aria-describedby="name" placeholder="Enter Name"
+        required>
+      <span class="text-danger"
+        *ngIf="isSubmitted && addBookForm.get('name')!.invalid && addBookForm.get('name')!.errors">
+        Please enter a valid Book Name (max 255 characters, alphanumeric).
+      </span>
+    </div>
+    <div class="form-group mb-2">
+      <label class="form-label text-light fw-bold" for="author">Author Name</label>
+      <input formControlName="author" type="text" class="form-control" aria-describedby="author"
+        placeholder="Enter Author Name" required>
+      <span class="text-danger"
+        *ngIf="isSubmitted && addBookForm.get('author')!.invalid && addBookForm.get('author')!.errors">
+        Please enter a valid Author Name (max 255 characters, alphanumeric).
+      </span>
+    </div>
+    <div class="form-group mb-2">
+      <label class="form-label text-light fw-bold" for="genre">Genre</label>
+      <input formControlName="genre" type="text" class="form-control" aria-describedby="genre" placeholder="Enter Genre"
+        required>
+      <span class="text-danger"
+        *ngIf="isSubmitted && addBookForm.get('genre')!.invalid && addBookForm.get('genre')!.errors">
+        Please enter a valid Genre (max 255 characters, alphanumeric).
+      </span>
+    </div>
+    <div class="form-group mb-2">
+      <label class="form-label text-light fw-bold" for="description">Description</label>
+      <input formControlName="description" type="text" class="form-control" aria-describedby="description"
+        placeholder="Enter Description" required>
+      <span class="text-danger"
+        *ngIf="isSubmitted && addBookForm.get('description')!.invalid && addBookForm.get('description')!.errors">
+        Please enter a valid description (max 255 characters, alphanumeric).
+      </span>
+    </div>
+    <div class="form-group mb-2">
+      <label class="form-label text-light fw-bold" for="ratings">Rate</label>
+      <input formControlName="ratings" type="number" class="form-control" max="5" min="1" aria-describedby="ratings"
+        placeholder="Enter Rating" required>
+      <span class="text-danger"
+        *ngIf="isSubmitted && addBookForm.get('ratings')!.invalid && addBookForm.get('ratings')!.errors">
+        Please enter a valid Rating.
+      </span>
+    </div>
+    <button type="submit" class="btn btn-primary mt-2 w-100">Add</button>
+  </form>
+</div>

@@ -1,0 +1,19 @@
+<div class="row">
+  <h1 *ngIf="originalBooks.length === 0" class="text-secondary">No Books Available at the moment</h1>
+  <ng-container *ngFor="let book of originalBooks">
+    <div class="card m-3 custom-shadow" style="width: 15rem;" *ngIf="book.isAvailable === false">
+      <div class="card-body">
+        <h3 class="card-title  font-monospace">{{ book.name }}</h3>
+        <h5 class="text-end text-secondary">Gen. {{book.genre }}</h5>
+        <h5 class="card-text text-center">By- {{ book.author }}</h5>
+        <div class="d-flex justify-content-lg-around">
+          <p class="text-success mt-1 mb-0" *ngIf="book.isAvailable === true">Available</p>
+          <p class="text-danger mt-1 mb-0" *ngIf="book.isAvailable===false">Unavailable</p>
+          <button class="btn btn-outline-primary " (click)="onClick(this.book.id)">Details</button>
+        </div>
+        <div>
+        </div>
+      </div>
+    </div>
+  </ng-container>
+</div>

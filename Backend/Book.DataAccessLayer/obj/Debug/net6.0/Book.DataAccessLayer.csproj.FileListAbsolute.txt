@@ -1,0 +1,14 @@
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.DataAccessLayer\bin\Debug\net6.0\Book.DataAccessLayer.deps.json
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.DataAccessLayer\bin\Debug\net6.0\Book.DataAccessLayer.runtimeconfig.json
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.DataAccessLayer\bin\Debug\net6.0\Book.DataAccessLayer.dll
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.DataAccessLayer\bin\Debug\net6.0\Book.DataAccessLayer.pdb
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.DataAccessLayer\obj\Debug\net6.0\Book.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.DataAccessLayer\obj\Debug\net6.0\Book.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.DataAccessLayer\obj\Debug\net6.0\Book.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.DataAccessLayer\obj\Debug\net6.0\Book.DataAccessLayer.AssemblyInfo.cs
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.DataAccessLayer\obj\Debug\net6.0\Book.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.DataAccessLayer\obj\Debug\net6.0\Book.DataAccessLayer.dll
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.DataAccessLayer\obj\Debug\net6.0\refint\Book.DataAccessLayer.dll
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.DataAccessLayer\obj\Debug\net6.0\Book.DataAccessLayer.pdb
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.DataAccessLayer\obj\Debug\net6.0\Book.DataAccessLayer.genruntimeconfig.cache
+C:\Users\vedantmaurya\OneDrive - Nagarro\Desktop\BookStore-Asgn\Backend\Book.DataAccessLayer\obj\Debug\net6.0\ref\Book.DataAccessLayer.dll

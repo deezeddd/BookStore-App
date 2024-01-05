@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Backend",
+    "\\Backend\\Book.BusinessLayer",
+    "\\Backend\\Book.BusinessLayer\\obj",
+    "\\Backend\\Book.BusinessLayer\\Service",
+    "\\Backend\\BookStoreAPI"
+  ],
+  "SelectedNode": "\\Backend\\Book.BusinessLayer\\Book.BusinessLayer.csproj",
+  "PreviewInSolutionExplorer": false
+}
